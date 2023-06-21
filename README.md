@@ -24,3 +24,13 @@ Design elements -
 * Represented by green dot is Snakehead.
 * Represented by red dot is SnakeBody.
 * Represented by an apple is Food.
+
+  Project Snippets
+  ![image3](https://github.com/GnaneshwariSarala/SnakeGame/assets/137158564/0eaa6293-e38a-4792-8520-8887b59ea15e)
+  ![image2](https://github.com/GnaneshwariSarala/SnakeGame/assets/137158564/9b953b2c-6c99-48ed-b078-a9b11598c567)
+
+  
+  
+  
+  
+
